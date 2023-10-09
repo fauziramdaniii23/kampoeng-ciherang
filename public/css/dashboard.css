@@ -1,0 +1,9 @@
+.nav-link:hover {
+    color: aqua !important;
+}
+.active {
+    color: aqua !important;
+}
+.widthfull {
+    width: 100% !important;
+}
